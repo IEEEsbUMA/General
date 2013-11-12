@@ -1,0 +1,4 @@
+git config --global --add https.proxy https://proxy.wifi.uma.es:3128
+git config --global --add http.proxy http://proxy.wifi.uma.es:3128
+
+git config --global --unset http.proxy
